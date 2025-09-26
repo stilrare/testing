@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Klassekart</title>
+  <style>
+    table, th, td {
+      border: 1px solid black;
+      border-collapse: collapse;
+      text-align: center;
+      padding: 10px;
+    }
+    <!--ikke skriv fra her til 27 arbeid foregår-->
+  .green{background-color:green;}
+  .red {background-color:red;}
+  .blue {background-color:blue;}
+.brown {background-color:brown;}
+  .orange {background-color:orange;}
+  .lightgreen {background-color:lightgreen;}
+ .lightblue {background-color:lightblue;}
+.cyan {background-color:cyan;}
+    .purple {background-color:purple;}<!--pedro farge-->
+.rosa {background-color:rosa;}<!--even farge-->
+.yellow {background-color:yellow;}
+.burlywood {background-color:burlywood;}
+.maroon {background-color:maroon;}
+
+    
+    img {
+      width: 100px;
+      height: auto;
+    }
+    .no-photo {
+      width: 100px;
+      height: 100px;
+      background-color: #eee;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <h1>Klassekart</h1>
+  <table style="width:100%">
+    <tr>
+      <td><!--Bilde her--><br>Emil</td>
+      <td><br>Even</td>
+      <td><!--ikke putt noe her--></td>
+      <td></td>
+      <td><!--<img src="" alt=Mattvi>--><br>Mattvi</td>
+      <td><br>Vahlid</td>
+    </tr>
+    <tr>
+      <td><img src="" alt=Sigrid><br>Sigrid</td>
+      <td><br>Oda</td>
+      <td><br>Helene</td>
+      <td><br>Thea</td>
+      <td><!--<img src="" alt=Peder>--><br>Peder</td>
+      <td><br>Erik</td>
+    </tr>
+    <tr>
+      <td><br>Elias</td>
+      <td><img src=""><br>Yana</td>
+      <td><img src=""><br>Daria</td>
+      <td></td>
+      <td><br>Yonis</td>
+      <td><img src="" alt=Lisa><br>Lisa</td>
+    </tr>
+  </table>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
